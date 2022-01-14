@@ -53,8 +53,7 @@ Languages:
 <!-- Tools: heading -->
  <h3>
  <p align="left">
-      <a><img src="https://cdn-icons.flaticon.com/png/128/2276/premium/2276313.png?token=exp=1642087352~hmac=962976f72a8e5af9c50df8e15eba014d" alt="tools" width="35" height="35"/> </a>
-Tools:
+⚙ Tools:
       </p>
       </h3>
  <br>
