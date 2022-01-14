@@ -25,11 +25,7 @@ const Sahil = {
   tackling: ["React.JS", "Tailwind", "C#"],
   contacts: {
       discord: "Sahil#2244"
-  },
-   Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
-   }
+  }
 ```
 
 <br>
