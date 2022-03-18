@@ -24,7 +24,7 @@ const Sahil = {
   likes: "Bootstrap",
   tackling: ["React.JS", "Tailwind", "C#"],
   contacts: {
-      discord: "Sahil#2244"
+      discord: "Sahil#1337"
   }
 ```
 
