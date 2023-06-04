@@ -93,7 +93,7 @@ Contact:
 
 <!-- Contact: Discord -->
 <p align="center"> 
-<a href="https://discord.com/users/898037958995738624" > <img alt="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=32></a>
+<a href="https://discord.com/users/1024970314796498954" > <img alt="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=32></a>
       </p>
 <br/>
 
