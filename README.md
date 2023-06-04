@@ -6,7 +6,7 @@
 <br>
 
 <!-- Discord profile -->
-<div align = "center"> <img src = "https://discord.c99.nl/widget/theme-4/533955330829451275.png"> </div>
+<div align = "center"> <img src = "https://discord.c99.nl/widget/theme-4/1024970314796498954.png"> </div>
 <br>
 
 <!-- About-Me texts -->
