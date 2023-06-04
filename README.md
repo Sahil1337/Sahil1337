@@ -20,11 +20,10 @@ About Me:
 
 ```js
 const Sahil = {
-  language: "JavaScript",
-  likes: "Bootstrap",
-  tackling: ["React.JS", "Tailwind", "C#"],
+  languages: ["JavaScript", "TypeScript", "Python"],
+  tackling: ["NextJS", "Tailwind", "Bootstrap", "Discord.js", "Eris", "HTML", "CSS"],
   contacts: {
-      discord: "Sahil#1337"
+      discord: "SahiL#1337"
   }
 ```
 
