@@ -1,109 +1,69 @@
-<!-- About texts -->
+<div align="center">
+  <img width="300" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&color=F7C51D&width=400&lines=👋+Hi,+I'm+Sahil.;💻+Self-taught+programmer+and+student."/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Sahil.;💻+A+self+taught+programmer,+student.)](https://github.com/Sahil1337)
+## About Me
 
-<h2>
-<br>
-
-<!-- Discord profile -->
-<div align = "center"> <img src = "https://discord.c99.nl/widget/theme-4/1024970314796498954.png"> </div>
-<br>
-
-<!-- About-Me texts -->
-<p align="left">
-      <a> <img src="https://img.icons8.com/office/344/guest-male--v1.png" alt="langs" width="20" height="20"/> </a> 
-About Me:
-      </p>
-      </h2>
-
-<!-- About-Me -->
-
-```js
-const Sahil = {
-  languages: ["JavaScript", "TypeScript", "Python"],
-  tackling: ["NextJS", "Tailwind", "Bootstrap", "Discord.js", "Eris", "HTML", "CSS"],
-  contacts: {
-      discord: "SahiL#1337"
-  }
-```
-
-<br>
-
-<!-- Languages: heading -->
-<h3>
-<p align="left">
-      <a> <img src="https://cdn-icons-png.flaticon.com/128/3898/3898082.png" alt="langs" width="25" height="25"/> </a>
-Languages:
-      </p>
-
-<!-- Languages -->
-</h3>
-<p align="left"> 
-<!-- Languages: MongoDB -->
-      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-<!-- Languages: Html -->
-      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-<!-- Languages: Css -->
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<!-- Languages: NodeJS -->
-      <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>   
- <br><br>
-
-<!-- Tools: heading -->
- <h3>
- <p align="left">
-⚙ Tools:
-      </p>
-      </h3>
- <br>
-
- <!-- Tool: VSC -->
- <p align="left"> 
- <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
-  <!-- Tool: Repl.it -->
- <a href="https://replit.com/~" 
- target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="48" height="48"/> </a>
-
-<!-- Github: Stats -->
-<br>
-  <h3>
-     <p align="left">
-      <a> <img src="https://static.thenounproject.com/png/103882-200.png" alt="" width="25" height="25"/> </a>
-My Github Stats:
-      </p></h3>
-<br>
-
-<p align="center">
-    <a><img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil1337&theme=tokyonight" /></a>
-
+<div align="center">
+  <p>Hi, I'm <strong>Sahil</strong>, a passionate developer from India with extensive experience in backend development and related technologies. I primarily work with TypeScript, JavaScript, and various other tools. While I have some experience with frontend development, my expertise lies in backend development.</p>
+  
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1024970314796498954)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahil.180720061337@gmail.com)
   <br>
+  
+  <img src="https://discord.c99.nl/widget/theme-4/1024970314796498954.png" alt="Discord" />
+</div>
 
-<a><img alt="Sahil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sahil1337&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-</br>
-
-<!-- Github: Contacts -->
-<br>
-  <h3>
-     <p align="left">
-      <a> <img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-contact-outline-512.png" alt="" width="25" height="25"/> </a>
-Contact:
-      </p></h3>
 <br>
 
-<!-- Contact: Discord -->
-<p align="center"> 
-<a href="https://discord.com/users/1024970314796498954" > <img alt="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=32></a>
-      </p>
-<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative Image">
+</div>
 
-<!-- Thanks~ -->
-</br>
-<p align="center">
-    <a>
-    <img alt="" src="https://www.icegif.com/wp-content/uploads/thanks-icegif.gif" height="100" width="360">
-    </a>
-</p>
+<br>
 
-<!-- 🙂  -->
-<hr style="border: 1px solid red;"/>
+## Technologies & Tools
+
+<div align="center" style="margin: 0 20px;">
+  <p style="font-size: 1.2em; font-weight: bold;">I work with these technologies and tools to build and improve applications, making sure they are efficient, scalable, and easy to maintain.</p>
+  <br>
+  <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" alt="Python" /></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" /></code>
+  <br><br>
+
+  <code><img height="22" src="https://img.shields.io/badge/-discord.js-7289DA?style=flat-square&logo=discord&logoColor=white" alt="discord.js" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Terminal-2D2D2D?style=flat-square&logo=terminal&logoColor=white" alt="Terminal" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Puppeteer-1e232a?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /></code>
+  <br><br>
+
+  <code><img height="22" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Bun-FCCB6D?style=flat-square&logo=bun&logoColor=black" alt="Bun" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=replit&logoColor=white" alt="Replit" /></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" /></code>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Technologies GIF" />
+</div>
+
+<br>
+
+## Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahil1337&theme=2077" width="95%" alt="Profile Details"/>
+</div>
+
