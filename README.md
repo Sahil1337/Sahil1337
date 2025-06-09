@@ -8,7 +8,7 @@
   <p>Hi, I'm <strong>Sahil</strong>, a passionate developer from India with extensive experience in backend development and related technologies. I primarily work with TypeScript, JavaScript, and various other tools. While I have some experience with frontend development, my expertise lies in backend development.</p>
   
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1024970314796498954)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahil.180720061337@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@sahil1337.xyz)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil1337)
 
   <br>
